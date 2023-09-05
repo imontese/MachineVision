@@ -1,10 +1,10 @@
 # Machine Vision Application using PLC  
    
-Machine vision engine from scratch using Python and OpenCV, the famous library for image processing. The aim is to create a small vision engine that can be connected to your PLC and your machine without spending a fortune on expensive equipment and software.  
+Machine vision using Python and OpenCV. Small vision engine that can be connected to a PLC and a machine without spending a fortune on expensive equipment and software.  
    
 ## Project Overview  
    
-Our project is a bottle labeling quality control system. In chemical factories, it's vital to have a label on every single bottle, containing important information like expiration date and instructions. The program checks the label on every bottle, allowing it to pass if the label is present and rejecting it if not.  
+The project is a bottle labeling quality control system. In chemical factories, it's vital to have a label on every single bottle, containing important information like expiration date and instructions. The program checks the label on every bottle, allowing it to pass if the label is present and rejecting it if not.  
    
 ## Requirements  
    
